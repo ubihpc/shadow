@@ -1,8 +1,13 @@
 # SHADOW (Strategic Heuristic AI for Dynamic Operations and Workflows)
 
+<p align="center">
+  <img width="50%" weight="70%" src="logo.png">
+</p>
+
+
 AI-Driven Vision for Operational Excellence. Boost efficiency with AI-powered insights for security and logistics. Our assistant delivers real-time intelligence, optimizing operations and enhancing safety.
 
-Check us out at [Shadow][https://shadow.ubihpc.com/]
+Check us out at [Shadow](https://shadow.ubihpc.com/)
 
 
 ## Acknowledgments
