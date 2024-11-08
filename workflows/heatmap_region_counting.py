@@ -9,7 +9,7 @@ from ultralytics import YOLO
 from ultralytics.solutions import heatmap
 
 
-parser = argparse.ArgumentParser(description="Heatmap line counting")
+parser = argparse.ArgumentParser(description="Heatmap region counting")
 parser.add_argument("-v", "--video_path", help="Video path")
 arguments = parser.parse_args()
 video_path = arguments.video_path
